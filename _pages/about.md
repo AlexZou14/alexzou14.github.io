@@ -107,14 +107,14 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/pdf/2310.16002">
+  <a href="https://ieeexplore.ieee.org/document/9786841">
     <papertitle_just>Joint Wavelet Sub-bands Guided Network for Single Image Super-Resolution</papertitle_just>     
   </a>
   <br>
-**Wenbin Zou**, Liang Chen, Yi Wu, Yunchen Zhang, Yuxiang Xu, Jun Shao.
+<strong>Wenbin Zou</strong>, Liang Chen, Yi Wu, Yunchen Zhang, Yuxiang Xu, Jun Shao.
 <br>
 <em>IEEE TMM</em> 2022 <br>
-<a href="https://arxiv.org/pdf/2310.16002">PDF</a>
+<a href="https://ieeexplore.ieee.org/document/9786841">PDF</a>
 |
 <a href="">code</a>
 <p>This paper propose a novel CNN-based super-resolution method named joint wavelet sub-bands guided network (JWSGN). We separate the different frequency information of the image by the WT and then recover this information by a multi-branch network.</p>
@@ -146,16 +146,16 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://rese1f.github.io/MovieChat/">
+  <a href="https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Zou_SDWNet_A_Straight_Dilated_Network_With_Wavelet_Transformation_for_Image_ICCVW_2021_paper.pdf">
     <papertitle_just>Sdwnet: A straight dilated network with wavelet transformation for image deblurring</papertitle_just>     
   </a>
   <br>
-**Wenbin Zou**, Mingchao Jiang, Yunchen Zhang, Liang Chen, Zhiyong Lu, Yi Wu.
+<strong>Wenbin Zou</strong>, Mingchao Jiang, Yunchen Zhang, Liang Chen, Zhiyong Lu, Yi Wu.
   <br>
 <em>ICCVW</em> 2021 <br>
-<a href="https://arxiv.org/pdf/2307.16449">PDF</a>
+<a href="https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Zou_SDWNet_A_Straight_Dilated_Network_With_Wavelet_Transformation_for_Image_ICCVW_2021_paper.pdf">PDF</a>
 |
-<a href="https://github.com/rese1f/MovieChat">code</a>
+<a href="https://github.com/FlyEgle/SDWNet">code</a>
 <p>SDWNet uses dilated convolution to enable the obtainment of the large receptive field with high spatial resolution. Through making full use of the different receptive fields, our method can achieve better performance.</p>
 </td>
 
@@ -183,16 +183,16 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="">
+  <a href="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Zou_Self-Calibrated_Efficient_Transformer_for_Lightweight_Super-Resolution_CVPRW_2022_paper.pdf">
     <papertitle_just>Self-calibrated efficient transformer for lightweight super-resolution </papertitle_just>     
   </a>
   <br>
-**Wenbin Zou**, Tian Ye, Weixin Zheng, Yunchen Zhang, Liang Chen, Yi Wu.
+<strong>Wenbin Zou</strong>, Tian Ye, Weixin Zheng, Yunchen Zhang, Liang Chen, Yi Wu.
   <br>
 <em>CVPRW</em> 2022 <br>
 <a href="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Zou_Self-Calibrated_Efficient_Transformer_for_Lightweight_Super-Resolution_CVPRW_2022_paper.pdf">PDF</a>
 |
-<a href="https://github.com/Owen718/UDR-S2Former_deraining">code</a>
+<a href="https://github.com/AlexZou14/SCET">code</a>
 |
 <p> We present a lightweight Self-Calibrated Efficient Transformer (SCET) network to solve that existing method can entail high computational costs and memory storage.</p>
 </td>
@@ -224,16 +224,16 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="">
+  <a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Zou_Cross-View_Hierarchy_Network_for_Stereo_Image_Super-Resolution_CVPRW_2023_paper.pdf">
     <papertitle_just> Cross-View Hierarchy Network for Stereo Image Super-Resolution </papertitle_just>     
   </a>
   <br>
-**Wenbin Zou**, Hongxia Gao, Liang Chen, Yunchen Zhang, Mingchao Jiang, Zhongxin Yu, Ming Tan.
+<strong>Wenbin Zou</strong>, Hongxia Gao, Liang Chen, Yunchen Zhang, Mingchao Jiang, Zhongxin Yu, Ming Tan.
   <br>
 <em>CVPRW</em> 2023 <br>
-<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html">PDF</a>
+<a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Zou_Cross-View_Hierarchy_Network_for_Stereo_Image_Super-Resolution_CVPRW_2023_paper.pdf">PDF</a>
 |
-<a href="">code</a>
+<a href="https://github.com/AlexZou14/CVHSSR">code</a>
 <p>We explore the interdependencies between various hierarchies from intra-view and propose a novel method, named Cross-View-Hierarchy Network for Stereo Image Super-Resolution (CVHSSR).</p>
 </td>
 
@@ -269,11 +269,13 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
     <papertitle_just>Multi-Scale Gamma Enhancement Network for Low-light Image Enhancement</papertitle_just>     
   </a>
   <br>
-**Wenbin Zou**, Hongxia Gao, Weipeng Yang, Shasha Huang, Hongshen Chen, Jianliang Ma
+<strong>Wenbin Zou</strong>, Hongxia Gao, Weipeng Yang, Shasha Huang, Hongshen Chen, Jianliang Ma
   <br>
 <em>IEEE TMM Under Review</em> <br>
-<!-- <a href="https://arxiv.org/pdf/2305.09533.pdf">PDF</a> -->
+<a href="">PDF</a>
 |
+<a href="">code</a>
+<!-- <a href="https://arxiv.org/pdf/2305.09533.pdf">PDF</a> -->
 <!-- <a href="https://github.com/Owen718/NightHazeFormer">code</a>
 <p>NightHazeFormer generates non-learnable prior queries that effectively guides the model to learn abundant prior features from input nighttime hazy images.</p> -->
 </td>
@@ -306,13 +308,13 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
     <papertitle_just>VQCNIR: Clearer Night Image Restoration with Vector-Quantized Dictionary</papertitle_just>     
   </a>
   <br>
-**Wenbin Zou**, Hongxia Gao, Liang Chen, Tian Ye, Weipeng Yang, Shasha Huang, Hongshen Chen.
+<strong>Wenbin Zou</strong>, Hongxia Gao, Liang Chen, Tian Ye, Weipeng Yang, Shasha Huang, Hongshen Chen.
   <br>
 <em>AAAI Under Review</em>, 2024 <br>
 <a href="">PDF</a>
 |
 <a href="">code</a>
-<p>Super-light Underwater Image Enhancement network only have ~9K parameters!</p>
+<p></p>
 </td>
 
 <!-- Paper V ShadowDiffusion -->
@@ -344,13 +346,13 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
     <papertitle_just>A3Net: Artifacts-aware Attention Network for Compressed Input Super-Resolution</papertitle_just>     
   </a>
   <br>
-**Wenbin Zou**, Weipeng Yang, Hongxia Gao, Shasha Huang, Hongshen Chen, Jianliang Ma
+<strong>Wenbin Zou</strong>, Weipeng Yang, Hongxia Gao, Shasha Huang, Hongshen Chen, Jianliang Ma
   <br>
 <em>ICASSP Under Review</em>, 2024 <br>
 <a href="">PDF</a>
 |
 <a href="">code</a>
-<p>we propose a Real-time Spatial and Frequency Domains Modulation Network for the efficient enhancement of colors and details in underwater images. </p>
+<p></p>
 </td>
 
 <!-- Paper V ShadowDiffusion -->
@@ -380,17 +382,15 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://ieeexplore.ieee.org/abstract/document/10096828">
+  <a href="">
     <papertitle_just>Low-Light Image Enhancement via Weighted Low-Rank Tensor Regularized Retinex Model</papertitle_just>     
   </a>
   <br>
-Weipeng Yang, Hongxia Gao, **Wenbin Zou**, Shasha Huang, Jianliang Ma
+Weipeng Yang, Hongxia Gao, <strong>Wenbin Zou</strong>, Shasha Huang, Jianliang Ma
   <br>
 <em>ICASSP Under Review</em>, 2024 <br>
-<a href="https://ieeexplore.ieee.org/abstract/document/10096828">PDF</a>
-|
-<a href="">code</a>
-<p>First Real-time Transformer performs Depth Estimation and Haze Removal from Varicolored Haze Scenes.</p>
+<a href="">PDF</a>
+<p></p>
 </td>
 
 <!-- Paper V ShadowDiffusion -->
@@ -435,14 +435,14 @@ Weipeng Yang, Hongxia Gao, **Wenbin Zou**, Shasha Huang, Jianliang Ma
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2306.17201">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-44210-0_33">
     <papertitle_just>Joint Edge-Guided and Spectral Transformation Network for Self-supervised X-Ray Image Restoration </papertitle_just>     
   </a>
   <br>
-Shasha Huang, **Wenbin Zou**, Hongxia Gao, Weipeng Yang, Hongsheng Chen, Shicheng Niu, Tian Qi, Jianliang Ma. 
+Shasha Huang, <strong>Wenbin Zou</strong>, Hongxia Gao, Weipeng Yang, Hongsheng Chen, Shicheng Niu, Tian Qi, Jianliang Ma. 
   <br>
 <em>ICANN</em> 2023 <br>
-<a href="https://arxiv.org/abs/2306.17201">PDF</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-44210-0_33">PDF</a>
 
 <p>To address the insufficient denoising of existing methods, we propose a novel self-supervised restoration method called the Joint Edge-guided and Spectral Transformation Network, which integrates edge guidance and spectral transformation techniques to restore color X-ray images.</p>
 </td>
@@ -467,12 +467,11 @@ Shasha Huang, **Wenbin Zou**, Hongxia Gao, Weipeng Yang, Hongsheng Chen, Shichen
     <papertitle_just>Joint Priors-Based Restoration Method for Degraded Images Under Medium Propagation</papertitle_just>     
   </a>
   <br>
-Hongsheng Chen, **Wenbin Zou**, Hongxia Gao, Weipeng Yang, Shasha Huang, Jianliang Ma
+Hongsheng Chen, <strong>Wenbin Zou</strong>, Hongxia Gao, Weipeng Yang, Shasha Huang, Jianliang Ma
   <br>
 <em>PRCV,</em> 2023 <br>
 <a href="">PDF</a>
-|
-<a href="">code</a>
+
 <p></p>
 </td>
 
@@ -489,14 +488,14 @@ Hongsheng Chen, **Wenbin Zou**, Hongxia Gao, Weipeng Yang, Shasha Huang, Jianlia
 <img src='./files/submit23_before.png'> -->
 </td>
 <td valign="top" width="80%">
-  <a href="">
+  <a href="https://diglib.eg.org/xmlui/handle/10.1111/cgf14960">
     <papertitle_just>Enhancing Low-Light Images: A Variation-based Retinex with Modified Bilateral Total Variation and Tensor Sparse Coding </papertitle_just>     
   </a>
   <br>
-Weipeng Yang, Hongxia Gao, **Wenbin Zou**, Shasha Huang, Hongsheng Chen, Jianliang Ma
+Weipeng Yang, Hongxia Gao, <strong>Wenbin Zou</strong>, Shasha Huang, Hongsheng Chen, Jianliang Ma
   <br>
 <em>PG,</em> 2023 <br>
-<a href="">PDF</a>
+<a href="https://diglib.eg.org/xmlui/handle/10.1111/cgf14960">PDF</a>
 |
 <a href="">code</a>
 <p></p>
@@ -524,14 +523,14 @@ Weipeng Yang, Hongxia Gao, **Wenbin Zou**, Shasha Huang, Hongsheng Chen, Jianlia
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="">
+  <a href="https://dl.acm.org/doi/10.1145/3581783.3611742">
     <papertitle_just>Sequential Affinity Learning for Video Restoration</papertitle_just>     
   </a>
   <br>
-Tian Ye, SiXiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, **Wenbin Zou**, Yunchen Zhang, jiang mingchao, Erkang Chen, Chenghao Xue
+Tian Ye, SiXiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, <strong>Wenbin Zou</strong>, Yunchen Zhang, jiang mingchao, Erkang Chen, Chenghao Xue
   <br>
 <em>ACM Multimedia (ACM MM),</em> 2023 <br>
-<a href="">PDF</a>
+<a href="https://dl.acm.org/doi/10.1145/3581783.3611742">PDF</a>
 |
 <a href="">code</a>
 <p></p>

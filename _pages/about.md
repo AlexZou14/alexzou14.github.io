@@ -576,7 +576,7 @@ Tian Ye, SiXiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, <strong>Wenbin Zou</str
 
 
 # 📖 Educations
-- Sep'2022-Now: Ph.D. (Electronic Information Engineering), Fujian Normal University, Fuzhou, China. Supervisor: Hongxia Gao.
+- Sep'2022-Now: Ph.D. (Electronic Information Engineering), South China University of Technology, Guangzhou, China. Supervisor: Hongxia Gao.
 - Sep'2019-Jul'2022: M.Sc. (Information and Communication Engineering), Fujian Normal University, Fuzhou, China. Supervisor: LiangChen and Yi Wu.
 - Sep’2015-Jul’2019: B.Eng (Electronic Information Engineering), Hefei Normal University, Hefei, China.
 

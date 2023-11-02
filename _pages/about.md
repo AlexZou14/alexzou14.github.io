@@ -278,6 +278,7 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 <!-- <a href="https://arxiv.org/pdf/2305.09533.pdf">PDF</a> -->
 <!-- <a href="https://github.com/Owen718/NightHazeFormer">code</a>
 <p>NightHazeFormer generates non-learnable prior queries that effectively guides the model to learn abundant prior features from input nighttime hazy images.</p> -->
+<p></p>
 </td>
 
 <!-- Paper V ShadowDiffusion -->
@@ -305,7 +306,7 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 </td>
 <td valign="top" width="80%">
   <a href="">
-    <papertitle_just>VQCNIR: Clearer Night Image Restoration with Vector-Quantized Dictionary</papertitle_just>     
+    <papertitle_just>VQCNIR: Clearer Night Image Restoration with Vector-Quantized Dictionary</papertitle_just>
   </a>
   <br>
 <strong>Wenbin Zou</strong>, Hongxia Gao, Liang Chen, Tian Ye, Weipeng Yang, Shasha Huang, Hongshen Chen.

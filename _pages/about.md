@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <!-- bundle exec jekyll serve -->
-I am Wenbin Zou, a Ph.D. student at the South China University of Technology, supervised by [Prof. Hongxia Gao](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=H81zJI-Popn6WACrL7cWMw==). My primary research interests include computer vision and deep learning, mainly focusing on image restoration and image generation and related vision problems. 
+I am Wenbin Zou, a Ph.D. student at the South China University of Technology, supervised by [Prof. Hongxia Gao](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=H81zJI-Popn6WACrL7cWMw==). My primary research interests include computer vision and deep learning, mainly focusing on image restoration, image generation and related vision problems. 
 
 Welcome to contact me through WeChat. My WeChat account is AlexZou14. 
 

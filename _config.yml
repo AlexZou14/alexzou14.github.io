@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Personal Page"
 title_separator          : "-"
-name                     : &name "Tian Ye"
+name                     : &name "Wenbin Zou"
 description              : &description "personal description"
-url                      : https://owen718.github.io # the base hostname & protocol for your site e.g. "httpss://mmistakes.github.io"
+url                      : https://alexzou14.github.io # the base hostname & protocol for your site e.g. "httpss://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "owen718/owen718.github.io"
+repository               : "alexzou14/alexzou14.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tian Ye"
-  avatar           : "WechatIMG26174.jpg"
+  name             : "Wenbin Zou"
+  avatar           : "my.JPG"
   bio              : "CV Researcher"
   location         : "Guangzhou, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=1sGXZ-wAAAAJ&hl=en"
-  email            : maserowen718@gmail.com
+  googlescholar    : "https://scholar.google.com/citations?user=dfe9NgEAAAAJ&hl=zh-CN"
+  email            : alexzou14@foxmail.com
   researchgate     :  
   uri              :
   bitbucket        :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Owen718"
+  github           : "AlexZou14"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-7156-0115"
   pinterest        :
   soundcloud       :
   stackoverflow    : 

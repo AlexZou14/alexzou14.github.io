@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 <!-- bundle exec jekyll serve -->
-I am Tian Ye, a Research Assistant at the HKUST (GZ), supervised by [Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home). My primary research interests include computer vision and deep learning, mainly focusing on reversible imaging problem and image generation. I was honored to be supervised and collaborated with **Dr. Erkang Chen** and **Dr. Yun Liu** during my undergraduate studies.
+I am Wenbin Zou, a Ph.D. student at the South China University of Technology, supervised by [Prof. Hongxia Gao](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=H81zJI-Popn6WACrL7cWMw==). My primary research interests include computer vision and deep learning, mainly focusing on image restoration and image generation and related vision problems. 
 
-欢迎用微信联系我，我的微信号是wxh59309063，欢迎大家多多找我交流，我很nice的（：！！
+Welcome to contact me through WeChat. My WeChat account is AlexZou14. 
 
 # 📝 Arxiv&Publications
-<p style='text-align: justify;'> My research works are dedicated to: (1) Performing visibility/machine vision enhancement, under degraded conditions. (2) Novel neural operators and architectures for Image/Video Prcocessing. (3) Generative Models for Image Generation/Editing/Enhancement.</p>
-
-Summary: CVPR/ICCV/ECCV-3 ACMMM-4 ACCV/ICIP/BMVC-3 
+<p style='text-align: justify;'> My research works are dedicated to: (1) Performing extreme low-light vision enhancement, under degraded conditions. (2) Generative Models for Image Generation/Editing/Enhancement. (3) Image Restoration under Complex Degradation Models.</p>
 
 <style type="text/css">
     /* Color scheme stolen from Sergey Karayev */
@@ -110,16 +108,16 @@ Summary: CVPR/ICCV/ECCV-3 ACMMM-4 ACCV/ICIP/BMVC-3
 </td>
 <td valign="top" width="80%">
   <a href="https://arxiv.org/pdf/2310.16002">
-    <papertitle_just>Integrating View Conditions for Image Synthesis</papertitle_just>     
+    <papertitle_just>Joint Wavelet Sub-bands Guided Network for Single Image Super-Resolution</papertitle_just>     
   </a>
   <br>
-Jinbin Bai, Zhen Dong, Aosong Feng, Xiao Zhang, <strong>Tian Ye</strong>, Kaicheng Zhou, Mike Zheng Shou
+**Wenbin Zou**, Liang Chen, Yi Wu, Yunchen Zhang, Yuxiang Xu, Jun Shao.
 <br>
-<em>Arxiv</em> 2023 <br>
+<em>IEEE TMM</em> 2022 <br>
 <a href="https://arxiv.org/pdf/2310.16002">PDF</a>
 |
 <a href="">code</a>
-<p>This paper introduces a pioneering framework that integrates viewpoint information to enhance the control of image editing tasks.</p>
+<p>This paper propose a novel CNN-based super-resolution method named joint wavelet sub-bands guided network (JWSGN). We separate the different frequency information of the image by the WT and then recover this information by a multi-branch network.</p>
 </td>
 
 <!-- Paper V ShadowDiffusion -->
@@ -149,16 +147,16 @@ Jinbin Bai, Zhen Dong, Aosong Feng, Xiao Zhang, <strong>Tian Ye</strong>, Kaiche
 </td>
 <td valign="top" width="80%">
   <a href="https://rese1f.github.io/MovieChat/">
-    <papertitle_just>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</papertitle_just>     
+    <papertitle_just>Sdwnet: A straight dilated network with wavelet transformation for image deblurring</papertitle_just>     
   </a>
   <br>
-Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Xun Guo, <strong>Tian Ye</strong>, Yan Lu, Jenq-Neng Hwang, Gaoang Wang
+**Wenbin Zou**, Mingchao Jiang, Yunchen Zhang, Liang Chen, Zhiyong Lu, Yi Wu.
   <br>
-<em>Arxiv</em> 2023 <br>
+<em>ICCVW</em> 2021 <br>
 <a href="https://arxiv.org/pdf/2307.16449">PDF</a>
 |
 <a href="https://github.com/rese1f/MovieChat">code</a>
-<p>MovieChat is the first framework that supports the understanding of videos with tens of thousands of frames. We have incorporated long short-term memory mechanisms into the visual module and connected it with LLM.</p>
+<p>SDWNet uses dilated convolution to enable the obtainment of the large receptive field with high spatial resolution. Through making full use of the different receptive fields, our method can achieve better performance.</p>
 </td>
 
 <!-- Paper V ShadowDiffusion -->
@@ -186,18 +184,17 @@ Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu,
 </td>
 <td valign="top" width="80%">
   <a href="">
-    <papertitle_just>Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks </papertitle_just>     
+    <papertitle_just>Self-calibrated efficient transformer for lightweight super-resolution </papertitle_just>     
   </a>
   <br>
-Sixiang Chen*,<strong>Tian Ye*</strong>, Jinbin Bai, Jun Shi, Erkang Chen, Lei Zhu.
+**Wenbin Zou**, Tian Ye, Weixin Zheng, Yunchen Zhang, Liang Chen, Yi Wu.
   <br>
-<em>ICCV</em> 2023 <br>
-<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Sparse_Sampling_Transformer_with_Uncertainty-Driven_Ranking_for_Unified_Removal_of_ICCV_2023_paper.html">PDF</a>
+<em>CVPRW</em> 2022 <br>
+<a href="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Zou_Self-Calibrated_Efficient_Transformer_for_Lightweight_Super-Resolution_CVPRW_2022_paper.pdf">PDF</a>
 |
 <a href="https://github.com/Owen718/UDR-S2Former_deraining">code</a>
 |
-<a href="https://ephemeral182.github.io/UDR_S2Former_deraining/">Project</a>
-<p></p>
+<p> We present a lightweight Self-Calibrated Efficient Transformer (SCET) network to solve that existing method can entail high computational costs and memory storage.</p>
 </td>
 
 <!-- Paper V ShadowDiffusion -->
@@ -228,21 +225,22 @@ Sixiang Chen*,<strong>Tian Ye*</strong>, Jinbin Bai, Jun Shi, Erkang Chen, Lei Z
 </td>
 <td valign="top" width="80%">
   <a href="">
-    <papertitle_just> Adverse Weather Removal with Codebook Priors </papertitle_just>     
+    <papertitle_just> Cross-View Hierarchy Network for Stereo Image Super-Resolution </papertitle_just>     
   </a>
   <br>
-<strong>Tian Ye*</strong>, Sixiang Chen*, Jinbin Bai*, Shi Jun, Chenghao Xue, Jingjia Jiang, Junjie Yin, Erkang Chen, Yun Liu.
+**Wenbin Zou**, Hongxia Gao, Liang Chen, Yunchen Zhang, Mingchao Jiang, Zhongxin Yu, Ming Tan.
   <br>
-<em>ICCV</em> 2023 <br>
+<em>CVPRW</em> 2023 <br>
 <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html">PDF</a>
 |
 <a href="">code</a>
-<p></p>
+<p>We explore the interdependencies between various hierarchies from intra-view and propose a novel method, named Cross-View-Hierarchy Network for Stereo Image Super-Resolution (CVHSSR).</p>
 </td>
 
 <!-- Paper V ShadowDiffusion -->
 <!-- ###################################################################################################-->
   
+
 
 
 
@@ -267,24 +265,22 @@ Sixiang Chen*,<strong>Tian Ye*</strong>, Jinbin Bai, Jun Shi, Erkang Chen, Lei Z
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2306.17201">
-    <papertitle_just>MPM: A Unified 2D-3D Human Pose Representation via Masked Pose Modeling </papertitle_just>     
+  <a href="">
+    <papertitle_just>Multi-Scale Gamma Enhancement Network for Low-light Image Enhancement</papertitle_just>     
   </a>
   <br>
-Zhengyu Zhang, Wenhao Chai, Zhongyu Jiang, <strong>Tian Ye</strong>, Mingli Song, Jenq-Neng Hwang, Gaoang Wang 
+**Wenbin Zou**, Hongxia Gao, Weipeng Yang, Shasha Huang, Hongshen Chen, Jianliang Ma
   <br>
-<em>Under Review.</em> 2023 <br>
-<a href="https://arxiv.org/abs/2306.17201">PDF</a>
+<em>IEEE TMM Under Review</em> <br>
+<!-- <a href="https://arxiv.org/pdf/2305.09533.pdf">PDF</a> -->
 |
-<a href="https://github.com/vvirgooo2/MPM">code</a>
-<p>Treat 2D and 3D pose as two different modalities and apply three mask modeling based pretext tasks for human pose pre-training to learn spatial and temporal relations.</p>
+<!-- <a href="https://github.com/Owen718/NightHazeFormer">code</a>
+<p>NightHazeFormer generates non-learnable prior queries that effectively guides the model to learn abundant prior features from input nighttime hazy images.</p> -->
 </td>
 
 <!-- Paper V ShadowDiffusion -->
 <!-- ###################################################################################################-->
   
-
-
 
 
 <!-- ###################################################################################################-->
@@ -294,154 +290,28 @@ Zhengyu Zhang, Wenhao Chai, Zhongyu Jiang, <strong>Tian Ye</strong>, Mingli Song
 <!-- <div class="one"> -->
 <!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
 <img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+// function submit23_shadowdiffusion_start() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
+// }
+// function submit23_shadowdiffusion_stop() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
+// }
+// submit23_shadowdiffusion_stop()
+</script>
 </td>
 <td valign="top" width="80%">
   <a href="">
-    <papertitle_just>Uncertainty-Driven Dynamic Degradation Perceiving and Background Modeling for Efficient Single Image Desnowing</papertitle_just>     
+    <papertitle_just>VQCNIR: Clearer Night Image Restoration with Vector-Quantized Dictionary</papertitle_just>     
   </a>
   <br>
-SiXiang Chen*, <strong>Tian Ye*</strong>, Chenghao Xue, Haoyu Chen, Yun Liu, Erkang Chen, Lei Zhu
+**Wenbin Zou**, Hongxia Gao, Liang Chen, Tian Ye, Weipeng Yang, Shasha Huang, Hongshen Chen.
   <br>
-<em>ACM Multimedia (ACM MM),</em> 2023 <br>
+<em>AAAI Under Review</em>, 2024 <br>
 <a href="">PDF</a>
 |
 <a href="">code</a>
-<p></p>
-</td>
-
-<!-- Paper V ShadowDiffusion -->
-<!-- ###################################################################################################-->
-
-
-<!-- ###################################################################################################-->
-<!-- Paper V ShadowDiffusion-->
-<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-</td>
-<td valign="top" width="80%">
-  <a href="">
-    <papertitle_just>Cross-scale Prototype Learning Transformer for Image Snow Removal </papertitle_just>     
-  </a>
-  <br>
-SiXiang Chen*, <strong>Tian Ye*</strong>, Yun Liu, Jinbin Bai, Haoyu Chen, Yunlong Lin, Jun Shi, Erkang Chen
-  <br>
-<em>ACM Multimedia (ACM MM),</em> 2023 <br>
-<a href="">PDF</a>
-|
-<a href="">code</a>
-<p></p>
-</td>
-
-<!-- Paper V ShadowDiffusion -->
-<!-- ###################################################################################################-->
-  
-<!-- ###################################################################################################-->
-<!-- Paper V ShadowDiffusion-->
-<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23_shadowdiffusion_start() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
-// }
-// function submit23_shadowdiffusion_stop() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
-// }
-// submit23_shadowdiffusion_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="">
-    <papertitle_just>Sequential Affinity Learning for Video Restoration</papertitle_just>     
-  </a>
-  <br>
-<strong>Tian Ye*</strong>, SiXiang Chen*, Yun Liu, Wenhao Chai, Jinbin Bai, Wenbin Zou, Yunchen Zhang, jiang mingchao, Erkang Chen, Chenghao Xue
-  <br>
-<em>ACM Multimedia (ACM MM),</em> 2023 <br>
-<a href="">PDF</a>
-|
-<a href="">code</a>
-<p></p>
-</td>
-
-<!-- Paper V ShadowDiffusion -->
-<!-- ###################################################################################################-->
-  
-
-
-
-<!-- ###################################################################################################-->
-<!-- Paper V ShadowDiffusion-->
-<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23_shadowdiffusion_start() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
-// }
-// function submit23_shadowdiffusion_stop() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
-// }
-// submit23_shadowdiffusion_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://arxiv.org/pdf/2305.09533.pdf">
-    <papertitle_just>NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer</papertitle_just>     
-  </a>
-  <br>
-Yun Liu, Zhongsheng Yan, Sixiang Chen*, <strong>Tian Ye*</strong>, Wenqi Ren, Erkang Chen
-  <br>
-<em>ACM Multimedia (ACM MM)</em>, 2023 <br>
-<a href="https://arxiv.org/pdf/2305.09533.pdf">PDF</a>
-|
-<a href="https://github.com/Owen718/NightHazeFormer">code</a>
-<p>NightHazeFormer generates non-learnable prior queries that effectively guides the model to learn abundant prior features from input nighttime hazy images.</p>
-</td>
-
-<!-- Paper V ShadowDiffusion -->
-<!-- ###################################################################################################-->
-  
-
-
-<!-- ###################################################################################################-->
-<!-- Paper V ShadowDiffusion-->
-<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23_shadowdiffusion_start() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
-// }
-// function submit23_shadowdiffusion_stop() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
-// }
-// submit23_shadowdiffusion_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://arxiv.org/pdf/2305.08824">
-    <papertitle_just>Five A+ Network: You Only Need 9K Parameters for Underwater Image Enhancement</papertitle_just>     
-  </a>
-  <br>
-Jingxia Jiang*, <strong>Tian Ye*</strong>, Jinbin Bai*, Sixiang Chen, Wenhao Chai, Jun Shi, Yun Liu, Erkang Chen
-  <br>
-<em>BMVC</em>, 2023 <br>
-<a href="https://arxiv.org/pdf/2305.08824">PDF</a>
-|
-<a href="https://github.com/Owen718/FiveAPlus-Network">code</a>
 <p>Super-light Underwater Image Enhancement network only have ~9K parameters!</p>
 </td>
 
@@ -470,14 +340,14 @@ Jingxia Jiang*, <strong>Tian Ye*</strong>, Jinbin Bai*, Sixiang Chen, Wenhao Cha
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/pdf/2302.12186">
-    <papertitle_just>RSFDM-Net: Real-time Spatial and Frequency Domains Modulation Network for Underwater Image Enhancement</papertitle_just>     
+  <a href="">
+    <papertitle_just>A3Net: Artifacts-aware Attention Network for Compressed Input Super-Resolution</papertitle_just>     
   </a>
   <br>
-Jingxia Jiang, Jinbin Bai, Yun Liu, Junjie Yin, Sixiang Chen, <strong>Tian Ye</strong>, Eekang Chen
+**Wenbin Zou**, Weipeng Yang, Hongxia Gao, Shasha Huang, Hongshen Chen, Jianliang Ma
   <br>
-<em>ICIP</em>, 2023 <br>
-<a href="https://arxiv.org/pdf/2302.12186">PDF</a>
+<em>ICASSP Under Review</em>, 2024 <br>
+<a href="">PDF</a>
 |
 <a href="">code</a>
 <p>we propose a Real-time Spatial and Frequency Domains Modulation Network for the efficient enhancement of colors and details in underwater images. </p>
@@ -511,12 +381,12 @@ Jingxia Jiang, Jinbin Bai, Yun Liu, Junjie Yin, Sixiang Chen, <strong>Tian Ye</s
 </td>
 <td valign="top" width="80%">
   <a href="https://ieeexplore.ieee.org/abstract/document/10096828">
-    <papertitle_just>Real-time Transformer for Depth Estimation and Haze Removal from Varicolored Haze Scenes</papertitle_just>     
+    <papertitle_just>Low-Light Image Enhancement via Weighted Low-Rank Tensor Regularized Retinex Model</papertitle_just>     
   </a>
   <br>
-Sixiang Chen*, <strong>Tian Ye*</strong>, Jun Shi, Yun Liu, JingXia Jiang, Erkang Chen, Peng Chen 
+Weipeng Yang, Hongxia Gao, **Wenbin Zou**, Shasha Huang, Jianliang Ma
   <br>
-<em>ICASSP</em>, 2022 <br>
+<em>ICASSP Under Review</em>, 2024 <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/10096828">PDF</a>
 |
 <a href="">code</a>
@@ -544,131 +414,131 @@ Sixiang Chen*, <strong>Tian Ye*</strong>, Jun Shi, Yun Liu, JingXia Jiang, Erkan
 // aaai23_reflectance_stop()
 </script>
 </td>
+
+
+<!-- ###################################################################################################-->
+<!-- Paper V ShadowDiffusion-->
+<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+// function submit23_shadowdiffusion_start() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
+// }
+// function submit23_shadowdiffusion_stop() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
+// }
+// submit23_shadowdiffusion_stop()
+</script>
+</td>
 <td valign="top" width="80%">
-  <a href="https://ieeexplore.ieee.org/abstract/document/10095605">
-    <papertitle_just>MSP-former: Multi-scale projection transformer for single image desnowing</papertitle_just>     
+  <a href="https://arxiv.org/abs/2306.17201">
+    <papertitle_just>Joint Edge-Guided and Spectral Transformation Network for Self-supervised X-Ray Image Restoration </papertitle_just>     
   </a>
   <br>
-  Sixiang Chen*, <strong>Tian Ye*</strong>, Yun Liu, Taodong Liao, Yi Ye, Erkang Chen
-  <!-- <strong>Yeying Jin</strong>, Ruoteng Li, Wenhan Yang, Robby T. Tan
-   -->
+Shasha Huang, **Wenbin Zou**, Hongxia Gao, Weipeng Yang, Hongsheng Chen, Shicheng Niu, Tian Qi, Jianliang Ma. 
   <br>
-<em>ICASSP</em>, 2022 <br>
-<a href="https://ieeexplore.ieee.org/abstract/document/10095605">PDF</a>
-|
-<a href="">code</a> 
-<p>Efficient Multi-scale Projection Transformer for single image desnowing.</p>
+<em>ICANN</em> 2023 <br>
+<a href="https://arxiv.org/abs/2306.17201">PDF</a>
+
+<p>To address the insufficient denoising of existing methods, we propose a novel self-supervised restoration method called the Joint Edge-guided and Spectral Transformation Network, which integrates edge guidance and spectral transformation techniques to restore color X-ray images.</p>
 </td>
 
-<!-- Paper IV Reflectance, AAAI'23 -->
+<!-- Paper V ShadowDiffusion -->
+<!-- ###################################################################################################-->
+  
+
+
+
+
+<!-- ###################################################################################################-->
+<!-- Paper V ShadowDiffusion-->
+<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just>Joint Priors-Based Restoration Method for Degraded Images Under Medium Propagation</papertitle_just>     
+  </a>
+  <br>
+Hongsheng Chen, **Wenbin Zou**, Hongxia Gao, Weipeng Yang, Shasha Huang, Jianliang Ma
+  <br>
+<em>PRCV,</em> 2023 <br>
+<a href="">PDF</a>
+|
+<a href="">code</a>
+<p></p>
+</td>
+
+<!-- Paper V ShadowDiffusion -->
+<!-- ###################################################################################################-->
+
+
+<!-- ###################################################################################################-->
+<!-- Paper V ShadowDiffusion-->
+<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just>Enhancing Low-Light Images: A Variation-based Retinex with Modified Bilateral Total Variation and Tensor Sparse Coding </papertitle_just>     
+  </a>
+  <br>
+Weipeng Yang, Hongxia Gao, **Wenbin Zou**, Shasha Huang, Hongsheng Chen, Jianliang Ma
+  <br>
+<em>PG,</em> 2023 <br>
+<a href="">PDF</a>
+|
+<a href="">code</a>
+<p></p>
+</td>
+
+<!-- Paper V ShadowDiffusion -->
 <!-- ###################################################################################################-->
   
 <!-- ###################################################################################################-->
-<!-- Paper IV Reflectance, AAAI'23 -->
-<!-- <tr onmouseout="aaai23_reflectance_stop()" onmouseover="aaai23_reflectance_start()" > -->
+<!-- Paper V ShadowDiffusion-->
+<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
 <td width="20%">
 <!-- <div class="one"> -->
-<!-- <div class="two" id = 'aaai23_reflectance_image'><img src='./files/aaai23_after.jpg'></div>
-<img src='./files/aaai23_before.jpg'> -->
+<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
 <!-- </div> -->
 <script type="text/javascript">
-// function aaai23_reflectance_start() {
-// document.getElementById('aaai23_reflectance_image').style.opacity = "1";
+// function submit23_shadowdiffusion_start() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
 // }
-// function aaai23_reflectance_stop() {
-// document.getElementById('aaai23_reflectance_image').style.opacity = "0";
+// function submit23_shadowdiffusion_stop() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
 // }
-// aaai23_reflectance_stop()
+// submit23_shadowdiffusion_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://openaccess.thecvf.com/content/ACCV2022/papers/Ye_Towards_Real-time_High-Definition_Image_Snow_Removal_Efficient_Pyramid_Network_with_ACCV_2022_paper.pdf">
-    <papertitle_just>Towards Real-time High-Definition Image Snow Removal: Efficient Pyramid Network with Asymmetrical Encoder-decoder Architecture</papertitle_just>     
+  <a href="">
+    <papertitle_just>Sequential Affinity Learning for Video Restoration</papertitle_just>     
   </a>
   <br>
-  <strong>Tian Ye*</strong>, Sixiang Chen*, Yun Liu, Yi Ye, Erkang Chen<!-- <strong>Yeying Jin</strong>, Ruoteng Li, Wenhan Yang, Robby T. Tan
-   -->
+Tian Ye, SiXiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, **Wenbin Zou**, Yunchen Zhang, jiang mingchao, Erkang Chen, Chenghao Xue
   <br>
-<em>ACCV</em>, 2022 <br>
-<a href="https://openaccess.thecvf.com/content/ACCV2022/papers/Ye_Towards_Real-time_High-Definition_Image_Snow_Removal_Efficient_Pyramid_Network_with_ACCV_2022_paper.pdf">PDF</a>
+<em>ACM Multimedia (ACM MM),</em> 2023 <br>
+<a href="">PDF</a>
 |
-<a href="">code</a> 
-<p>First real-time network for High-Definition image snow removal.</p>
+<a href="">code</a>
+<p></p>
 </td>
 
-<!-- Paper IV Reflectance, AAAI'23 -->
+<!-- Paper V ShadowDiffusion -->
 <!-- ###################################################################################################-->
-
-<!-- ###################################################################################################-->
-<!-- Paper IV Reflectance, AAAI'23 -->
-<!-- <tr onmouseout="aaai23_reflectance_stop()" onmouseover="aaai23_reflectance_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'aaai23_reflectance_image'><img src='./files/aaai23_after.jpg'></div>
-<img src='./files/aaai23_before.jpg'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function aaai23_reflectance_start() {
-// document.getElementById('aaai23_reflectance_image').style.opacity = "1";
-// }
-// function aaai23_reflectance_stop() {
-// document.getElementById('aaai23_reflectance_image').style.opacity = "0";
-// }
-// aaai23_reflectance_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://link.springer.com/chapter/10.1007/978-3-031-19800-7_8">
-    <papertitle_just>Perceiving and Modeling Density for Image Dehazing</papertitle_just>     
-  </a>
-  <br>
-  <strong>Tian Ye*</strong>, Yunchen Zhang*, Mingchao Jiang*, Liang Chen, Yun Liu, Erkang Chen. 
-  <!-- <strong>Yeying Jin</strong>, Ruoteng Li, Wenhan Yang, Robby T. Tan
-   -->
-  <br>
-<em>ECCV Oral</em>, 2022 <br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-19800-7_8">PDF</a>
-|
-<a href="https://github.com/Owen718/ECCV22-Perceiving-and-Modeling-Density-for-Image-Dehazing">code</a> 
-<p>We propose to perceive and model hazy density for single image dehazing.</p>
-</td>
-
-<!-- Paper IV Reflectance, AAAI'23 -->
-<!-- ###################################################################################################-->
-
-<!-- ###################################################################################################-->
-<!-- Paper IV Reflectance, AAAI'23 -->
-<!-- <tr onmouseout="aaai23_reflectance_stop()" onmouseover="aaai23_reflectance_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'aaai23_reflectance_image'><img src='./files/aaai23_after.jpg'></div>
-<img src='./files/aaai23_before.jpg'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function aaai23_reflectance_start() {
-// document.getElementById('aaai23_reflectance_image').style.opacity = "1";
-// }
-// function aaai23_reflectance_stop() {
-// document.getElementById('aaai23_reflectance_image').style.opacity = "0";
-// }
-// aaai23_reflectance_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ye_Underwater_Light_Field_Retention_Neural_Rendering_for_Underwater_Imaging_CVPRW_2022_paper.pdf">
-    <papertitle_just>Underwater Light Field Retention: Neural Rendering for Underwater Imaging</papertitle_just>     
-  </a>
-  <br>
-  <strong>Tian Ye*</strong>, Sixiang Chen*, Yun Liu, Yi Ye, Erkang Chen, Yuche Li
-  <!-- <strong>Yeying Jin</strong>, Ruoteng Li, Wenhan Yang, Robby T. Tan
-   -->
-  <br>
-<em>CVPR Workshop</em>, 2022 <br>
-<a href="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ye_Underwater_Light_Field_Retention_Neural_Rendering_for_Underwater_Imaging_CVPRW_2022_paper.pdf">PDF</a>
-|
-<a href="https://github.com/Ephemeral182/UWNR">code</a> 
-<p>A controlable Underwater Image Generation method based on Neural Rendering.</p>
-</td>
 
 
 
@@ -676,31 +546,39 @@ Sixiang Chen*, <strong>Tian Ye*</strong>, Jun Shi, Yun Liu, JingXia Jiang, Erkan
 
 
 # 🎖 Competitions & Awards
-- 2022 CVPR NAS Competition Supernet Track: Third Place Solution of Track 1 
-- 2022 JMU Student Star Award  (20/19000)
+- The 1st of Citrus Flower and Fruit Shoot Semantic Segmentation Challenge Based on Visible Light Images. October 2023.
+- The 1st of Baidu Netdisk AI Competition: Beauty, freckle and acne removal. September 2023.
+- The 1st award of the China International Big Data Industry Expo：the Data Scenario Application Innovation Contest. May 2023.
+- The 8th of the NTIRE 2023 Challenge on Stereo Image Super-Resolution, Track 1. April 2023.
+- The 5th of the NTIRE 2023 Challenge on Stereo Image Super-Resolution, Track 2.
+- The 4th of the NTIRE 2023 Challenge on Stereo Image Super-Resolution, Track 3.
+- The 2nd award of "Xingzhi Cup" National Artificial Intelligence Innovation and Application Competition. February 2023.
+- The 1st of Baidu Netdisk AI Competition: Document Image Deblurring. September 2022.
+- The 6th of Baidu Netdisk AI Competition: Image Processing Challenge-Document Image Direction Recognition. September 2022.
+- The 7th of AIM 2022 Compressed Input Super-Resolution Challenge, Track 1. July 2022.
+- The 3rd of 2022 CVPR Neural Architecture Search (NAS) Track 1: Supernet Track. May 2022.
+- The 1st award of AI Innovation and Application Competition, China information and Communication Research Institute. December 2021.
+- The 12th "Challenge Cup" College Student Entrepreneur Competition, Bronze award, Ministry of Education. November 2020.
   
 # 🧑‍🤝‍🧑 My Friends
+- [Tian Ye](https://owen718.github.io/) @HKUST(GZ)
 - [Sixiang Chen](https://sixiangchen.com) @HKUST(GZ)
-- [Jinbin Bai](https://noyii.github.io)@NUS
-- [Wenhao Chai](http://rese1f.github.io)@UW&MSRA
-- [Leitian Tao](https://taoleitian.github.io)@WHU
 - [Yunchen Zhang](https://scholar.google.com/citations?user=GogMKLIAAAAJ&hl=en)@ZTE 
 - [Mingchao Jiang](https://scholar.google.com/citations?user=-Br9r7-SC6cC&hl=en)@GUT
-- [Wenbin Zhou](https://scholar.google.com/citations?user=dfe9NgEAAAAJ&hl=en)@SCUT
-- [Ruiqi Wu](https://rq-wu.github.io)@NKU
-
 
 # 💬 Academic Services
-- Conference Reviewer: ACCV, WACV, AAAI, ICCV, BMVC.
+- Conference Reviewer: ICCVW, PRCV
 - Journal Reviewer: 
   
-  IEEE Signal Processing Letter
+  IEEE Trans. on Neural Networks and Learning Systems.
 
-  IEEE Journal of Oceanic Engineering
+  IEEE Trans. on Circuits and Systems for Video Technology 
 
 
 # 📖 Educations
-- Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen, China.
+- Sep'2022-Now: Ph.D. (Electronic Information Engineering), Fujian Normal University, Fuzhou, China. Supervisor: Hongxia Gao.
+- Sep'2019-Jul'2022: M.Sc. (Information and Communication Engineering), Fujian Normal University, Fuzhou, China. Supervisor: LiangChen and Yi Wu.
+- Sep’2015-Jul’2019: B.Eng (Electronic Information Engineering), Hefei Normal University, Hefei, China.
 
 
 

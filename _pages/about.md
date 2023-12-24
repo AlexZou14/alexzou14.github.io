@@ -124,6 +124,34 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 <!-- ###################################################################################################-->
   
 
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+// function submit23_shadowdiffusion_start() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
+// }
+// function submit23_shadowdiffusion_stop() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
+// }
+// submit23_shadowdiffusion_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just>VQCNIR: Clearer Night Image Restoration with Vector-Quantized Dictionary</papertitle_just>
+  </a>
+  <br>
+<strong>Wenbin Zou</strong>, Hongxia Gao, Liang Chen, Tian Ye, Weipeng Yang, Shasha Huang, Hongshen Chen.
+  <br>
+<em>AAAI</em>, 2024 <br>
+<a href="https://arxiv.org/pdf/2312.08606">PDF</a>
+|
+<a href="https://github.com/AlexZou14/VQCNIR">code</a>
+<p></p>
+</td>
 
 
 
@@ -281,52 +309,7 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 <p></p>
 </td>
 
-<!-- Paper V ShadowDiffusion -->
-<!-- ###################################################################################################-->
-  
 
-
-<!-- ###################################################################################################-->
-<!-- Paper V ShadowDiffusion-->
-<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23_shadowdiffusion_start() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
-// }
-// function submit23_shadowdiffusion_stop() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
-// }
-// submit23_shadowdiffusion_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="">
-    <papertitle_just>VQCNIR: Clearer Night Image Restoration with Vector-Quantized Dictionary</papertitle_just>
-  </a>
-  <br>
-<strong>Wenbin Zou</strong>, Hongxia Gao, Liang Chen, Tian Ye, Weipeng Yang, Shasha Huang, Hongshen Chen.
-  <br>
-<em>AAAI Under Review</em>, 2024 <br>
-<a href="">PDF</a>
-|
-<a href="">code</a>
-<p></p>
-</td>
-
-<!-- Paper V ShadowDiffusion -->
-<!-- ###################################################################################################-->
-  
-
-
-
-<!-- ###################################################################################################-->
-<!-- Paper V ShadowDiffusion-->
-<!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
 <td width="20%">
 <!-- <div class="one"> -->
 <!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
@@ -367,32 +350,6 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 <!-- ###################################################################################################-->
 <!-- Paper V ShadowDiffusion-->
 <!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23_shadowdiffusion_start() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
-// }
-// function submit23_shadowdiffusion_stop() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
-// }
-// submit23_shadowdiffusion_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="">
-    <papertitle_just>Low-Light Image Enhancement via Weighted Low-Rank Tensor Regularized Retinex Model</papertitle_just>     
-  </a>
-  <br>
-Weipeng Yang, Hongxia Gao, <strong>Wenbin Zou</strong>, Shasha Huang, Jianliang Ma
-  <br>
-<em>ICASSP Under Review</em>, 2024 <br>
-<a href="">PDF</a>
-<p></p>
-</td>
 
 <!-- Paper V ShadowDiffusion -->
 <!-- ###################################################################################################-->
@@ -400,21 +357,6 @@ Weipeng Yang, Hongxia Gao, <strong>Wenbin Zou</strong>, Shasha Huang, Jianliang 
 <!-- ###################################################################################################-->
 <!-- Paper IV Reflectance, AAAI'23 -->
 <!-- <tr onmouseout="aaai23_reflectance_stop()" onmouseover="aaai23_reflectance_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'aaai23_reflectance_image'><img src='./files/aaai23_after.jpg'></div>
-<img src='./files/aaai23_before.jpg'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function aaai23_reflectance_start() {
-// document.getElementById('aaai23_reflectance_image').style.opacity = "1";
-// }
-// function aaai23_reflectance_stop() {
-// document.getElementById('aaai23_reflectance_image').style.opacity = "0";
-// }
-// aaai23_reflectance_stop()
-</script>
-</td>
 
 
 <!-- ###################################################################################################-->

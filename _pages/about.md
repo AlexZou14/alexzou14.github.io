@@ -310,35 +310,6 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 </td>
 
 
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23_shadowdiffusion_start() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
-// }
-// function submit23_shadowdiffusion_stop() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
-// }
-// submit23_shadowdiffusion_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="">
-    <papertitle_just>A3Net: Artifacts-aware Attention Network for Compressed Input Super-Resolution</papertitle_just>     
-  </a>
-  <br>
-<strong>Wenbin Zou</strong>, Weipeng Yang, Hongxia Gao, Shasha Huang, Hongshen Chen, Jianliang Ma
-  <br>
-<em>ICASSP Under Review</em>, 2024 <br>
-<a href="">PDF</a>
-|
-<a href="">code</a>
-<p></p>
-</td>
-
 <!-- Paper V ShadowDiffusion -->
 <!-- ###################################################################################################-->
   
@@ -415,6 +386,20 @@ Hongsheng Chen, <strong>Wenbin Zou</strong>, Hongxia Gao, Weipeng Yang, Shasha H
 <em>PRCV,</em> 2023 <br>
 <a href="">PDF</a>
 
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just>Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution</papertitle_just>     
+  </a>
+  <br>Yunxiang Li,* ,<strong>Wenbin Zou,∗</strong>, Qiaomu Wei,∗, Feng Huang ,Jing Wu
+  <br>
+<em>CVPRW,</em> 2024 <br>
+<a href="">PDF</a>
+
 <p></p>
 </td>
 
@@ -439,6 +424,35 @@ Weipeng Yang, Hongxia Gao, <strong>Wenbin Zou</strong>, Shasha Huang, Hongsheng 
   <br>
 <em>PG,</em> 2023 <br>
 <a href="https://diglib.eg.org/xmlui/handle/10.1111/cgf14960">PDF</a>
+|
+<a href="">code</a>
+<p></p>
+</td>
+
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+// function submit23_shadowdiffusion_start() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
+// }
+// function submit23_shadowdiffusion_stop() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
+// }
+// submit23_shadowdiffusion_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just>Low-Light Image Enhancement via Weighted Low-Rank Tensor Regularized Retinex Model</papertitle_just>     
+  </a>
+  <br>
+Weipeng Yang, Hongxia Gao, <strong>Wenbin Zou</strong>，Tongtong Liu, Shasha Huang, Jianliang Ma
+  <br>
+<em>ICMR</em>, 2024 <br>
+<a href="">PDF</a>
 |
 <a href="">code</a>
 <p></p>

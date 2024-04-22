@@ -82,9 +82,6 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 <!-- ################################  CONTENT START  ##################################################-->
 <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10"> -->
 
-<tbody>
-
-
 
 
 
@@ -385,6 +382,8 @@ Hongsheng Chen, <strong>Wenbin Zou</strong>, Hongxia Gao, Weipeng Yang, Shasha H
   <br>
 <em>PRCV,</em> 2023 <br>
 <a href="">PDF</a>
+<p></p>
+</td>
 
 <td width="20%">
 <!-- <div class="one"> -->
@@ -399,7 +398,6 @@ Hongsheng Chen, <strong>Wenbin Zou</strong>, Hongxia Gao, Weipeng Yang, Shasha H
   <br>
 <em>CVPRW,</em> 2024 <br>
 <a href="">PDF</a>
-
 <p></p>
 </td>
 
@@ -444,9 +442,10 @@ Weipeng Yang, Hongxia Gao, <strong>Wenbin Zou</strong>, Shasha Huang, Hongsheng 
 // submit23_shadowdiffusion_stop()
 </script>
 </td>
+
 <td valign="top" width="80%">
   <a href="">
-    <papertitle_just>Low-Light Image Enhancement via Weighted Low-Rank Tensor Regularized Retinex Model</papertitle_just>     
+    <papertitle_just>Low-Light Image Enhancement via Weighted Low-Rank Tensor Regularized Retinex Model</papertitle_just> 
   </a>
   <br>
 Weipeng Yang, Hongxia Gao, <strong>Wenbin Zou</strong>，Tongtong Liu, Shasha Huang, Jianliang Ma
@@ -496,9 +495,6 @@ Tian Ye, SiXiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, <strong>Wenbin Zou</str
 <!-- Paper V ShadowDiffusion -->
 <!-- ###################################################################################################-->
 
-
-
-</tbody>
 
 
 # 🎖 Competitions & Awards

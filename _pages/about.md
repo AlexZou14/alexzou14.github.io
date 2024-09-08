@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <!-- bundle exec jekyll serve -->
-I am Wenbin Zou, a Ph.D. student at the South China University of Technology, supervised by [Prof. Hongxia Gao](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=H81zJI-Popn6WACrL7cWMw==). My primary research interests include computer vision and deep learning, mainly focusing on image restoration, image generation and related vision problems. I am looking for overseas exchanges and cooperation. My resume is as follows: [CV](../files/WenbinZouCV_20231101_.pdf)
+I am Wenbin Zou, a Ph.D. student at the South China University of Technology, supervised by [Assoc. Prof Huiping Zhuang](https://zhuanghp.github.io/). My primary research interests include computer vision and deep learning, mainly focusing on image restoration, image generation and related vision problems. I am looking for overseas exchanges and cooperation. My resume is as follows: [CV](../files/WenbinZouCV_20231101_.pdf)
 
 Welcome to contact me through WeChat. My WeChat account is AlexZou14. 
 
@@ -150,6 +150,35 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 <p></p>
 </td>
 
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+// function submit23_shadowdiffusion_start() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
+// }
+// function submit23_shadowdiffusion_stop() {
+// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
+// }
+// submit23_shadowdiffusion_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just>Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement</papertitle_just>
+  </a>
+  <br>
+<strong>Wenbin Zou</strong>, Hongxia Gao, Weipeng Yang, Tongtong Liu.
+  <br>
+<em>ACM MM</em>, 2024 <br>
+<a href="https://arxiv.org/pdf/2408.01276">PDF</a>
+|
+<a href="https://github.com/AlexZou14/Wave-Mamba">code</a>
+<p></p>
+</td>
+
 
 
 <!-- ###################################################################################################-->
@@ -274,37 +303,6 @@ Welcome to contact me through WeChat. My WeChat account is AlexZou14.
 <!-- ###################################################################################################-->
 <!-- Paper V ShadowDiffusion-->
 <!-- <tr onmouseout="submit23_shadowdiffusion_stop()" onmouseover="submit23_shadowdiffusion_start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23_shadowdiffusion_image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23_shadowdiffusion_start() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "1";
-// }
-// function submit23_shadowdiffusion_stop() {
-// document.getElementById('submit23_shadowdiffusion_image').style.opacity = "0";
-// }
-// submit23_shadowdiffusion_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="">
-    <papertitle_just>Multi-Scale Gamma Enhancement Network for Low-light Image Enhancement</papertitle_just>     
-  </a>
-  <br>
-<strong>Wenbin Zou</strong>, Hongxia Gao, Weipeng Yang, Shasha Huang, Hongshen Chen, Jianliang Ma
-  <br>
-<em>IEEE TMM Under Review</em> <br>
-<a href="">PDF</a>
-|
-<a href="">code</a>
-<!-- <a href="https://arxiv.org/pdf/2305.09533.pdf">PDF</a> -->
-<!-- <a href="https://github.com/Owen718/NightHazeFormer">code</a>
-<p>NightHazeFormer generates non-learnable prior queries that effectively guides the model to learn abundant prior features from input nighttime hazy images.</p> -->
-<p></p>
-</td>
 
 
 <!-- Paper V ShadowDiffusion -->
@@ -496,7 +494,6 @@ Tian Ye, SiXiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, <strong>Wenbin Zou</str
 <!-- ###################################################################################################-->
 
 
-
 # 🎖 Competitions & Awards
 - The 1st of Citrus Flower and Fruit Shoot Semantic Segmentation Challenge Based on Visible Light Images. October 2023.
 - The 1st of Baidu Netdisk AI Competition: Beauty, freckle and acne removal. September 2023.
@@ -519,7 +516,7 @@ Tian Ye, SiXiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, <strong>Wenbin Zou</str
 - [Mingchao Jiang](https://scholar.google.com/citations?user=-Br9r7-SC6cC&hl=en)@GUT
 
 # 💬 Academic Services
-- Conference Reviewer: ICCVW, PRCV
+- Conference Reviewer: ICCVW, PRCV, ACM MM
 - Journal Reviewer: 
   
   IEEE Trans. on Neural Networks and Learning Systems.
@@ -528,7 +525,7 @@ Tian Ye, SiXiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, <strong>Wenbin Zou</str
 
 
 # 📖 Educations
-- Sep'2022-Now: Ph.D. (Electronic Information Engineering), South China University of Technology, Guangzhou, China. Supervisor: Hongxia Gao.
+- Sep'2022-Now: Ph.D. (Electronic Information Engineering), South China University of Technology, Guangzhou, China. Supervisor: Huiping Zhuang.
 - Sep'2019-Jul'2022: M.Sc. (Information and Communication Engineering), Fujian Normal University, Fuzhou, China. Supervisor: LiangChen and Yi Wu.
 - Sep’2015-Jul’2019: B.Eng (Electronic Information Engineering), Hefei Normal University, Hefei, China.
 
